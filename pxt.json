@@ -1,5 +1,5 @@
 {
-    "name": "WireDefuserTemplate",
+    "name": "wires",
     "description": "",
     "dependencies": {
         "device": "*"
